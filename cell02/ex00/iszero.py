@@ -1,5 +1,6 @@
-(number) = int(user_i)
-print("invalid input. please enter a number.")
+number = float(input("pls enter your number"))
 
 if number == 0:
-    print("this number is different from zero.")
+    print("this nimer is equal to zero")
+else:
+    print("this number is different from zero")
